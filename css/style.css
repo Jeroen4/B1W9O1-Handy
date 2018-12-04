@@ -105,7 +105,7 @@ div.banner3, .right{
   position: relative;
   width: 50%;
 }
-.imgContainer:hover .overlay {
+.overlay:hover .overlay{
   opacity: 1.5;
   background-color: rgba(34,41,49,0.8);
 }
