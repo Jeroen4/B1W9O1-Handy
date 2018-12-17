@@ -194,7 +194,7 @@ div.banner3{
     position: absolute;
     width: 100%;
     margin-bottom: 50px;
-/* -------------------------------------------------------gele blokjes onder het over ons informatie---- */
+
 }
 .footerblokje3{
     background-color: yellow;
@@ -244,8 +244,7 @@ div.banner3{
     background-color: #222931;
     color:white;
 }
-/*-------------------------------------einde----*/
-/*-------------------------------------------------------------------- positie voor fonts van fontawesome en de tekst op de gele balkjes----*/
+
 .handshake , i{
     margin-top: -20px;
     width: 60px;
@@ -311,7 +310,7 @@ div.banner3{
     padding-top: 20px;
     margin-left: 70px;
 }
-/*----------------------------------------------------------------------------------------einde fonts en tekst in geen balkje */
+
 .line1{
     background-color: black;
     height: 1px;
@@ -367,9 +366,6 @@ img.img-end, .mobile, img.mail{
     height: 20px;
 }
 
-
-/*================================================ tekst Diensten pagee-------------------------------*/
-
 .diensten{
     margin-left: 200px;
     margin-bottom: 40px;
@@ -383,7 +379,6 @@ img.img-end, .mobile, img.mail{
     margin-left: 210px;
     font-size: 12px;
 }
-
 
 .dienstentext{
     position: absolute;
