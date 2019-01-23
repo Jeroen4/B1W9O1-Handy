@@ -87,7 +87,6 @@ div.banner1{
     padding-bottom: 50px;
     margin-left:  905px;
     display: inline-block;
-
 }
 div.banner2 {
     width: 300px;
@@ -99,7 +98,6 @@ div.banner2 {
     padding-bottom: 50px;
     margin-left: 580px;
     display: inline-block;
-
 }
 div.banner3{
     width: 300px;
@@ -121,7 +119,6 @@ div.banner3{
     position: absolute;
     padding-top: 100px;
     padding-bottom: 100px;
-   
 }
 .right{
     position: absolute;
@@ -144,7 +141,6 @@ div.banner3{
 .dienstenhover:hover .overlay{
     opacity: 1.5;
     background-color: rgba(34,41,49,0.8);
-
 }
 .geschiedenishover:hover .overlay{
     opacity: 1.5;
@@ -229,7 +225,6 @@ div.banner3{
     margin-top: 190px;
     margin-left:  905px;
     display: inline-block;
-
 }
 .footerblokje2 {
     background-color: yellow; 
@@ -241,7 +236,6 @@ div.banner3{
     margin-left: 580px;
     margin-top: 190px;
     display: inline-block;
-
 }
 .footerblokje1{
     background-color: yellow;
@@ -288,7 +282,6 @@ div.banner3{
     margin-left: 580px;
     margin-top: 290px;
     display: inline-block;
-
 }
 .footerblokje1_2{
     background-color: yellow;
@@ -424,7 +417,6 @@ footer{
     background-color: #222931; 
     color: white;
     padding-bottom: 20px;
-
 }
 footer>p{
     float: right;
