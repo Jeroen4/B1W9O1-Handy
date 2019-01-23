@@ -4,6 +4,9 @@
 }
 body{
     font-family: 'Archivo', sans-serif;
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 500;
 }
 
 .logo{
@@ -29,6 +32,7 @@ li{
 }
 a{
     color: white;
+    font-size: 12px;
 }
 li:hover, a:hover{
     background-color: #ffe718;
@@ -56,6 +60,8 @@ li.dropdown {
 }
 .dropdown-content a {
     color: white;
+    font-size: 16px;
+    font-weight: 500;
     padding: 12px 16px;
     text-decoration: none;
     display: block;
@@ -75,9 +81,11 @@ div.banner1{
     width: 300px;
     height: 220px;
     position: absolute;
+    font-weight: 600;
+    font-size: 32px;
     padding-top: 50px;
     padding-bottom: 50px;
-    margin-left:  925px;
+    margin-left:  905px;
     display: inline-block;
 
 }
@@ -85,9 +93,11 @@ div.banner2 {
     width: 300px;
     height: 220px;
     position: absolute;
+    font-weight: 600;
+    font-size: 32px;
     padding-top: 50px;
     padding-bottom: 50px;
-    margin-left: 600px;
+    margin-left: 580px;
     display: inline-block;
 
 }
@@ -95,9 +105,11 @@ div.banner3{
     width: 300px;
     height: 220px;
     position: absolute;
+    font-weight: 600;
+    font-size: 32px;
     padding-top: 50px;
     padding-bottom: 50px;
-    margin-left:  275px;
+    margin-left:  255px;
     display: inline-block;
 }   
 .left{
@@ -166,18 +178,26 @@ div.banner3{
     height:150px;
     background-color:#ffe718;
 }
-.tekst1 , .tekst2 , .button{
+.tekst1 , .tekst2, .button{
     display: inline;
+}
+
+.tekst1{
+    font-size: 34px;
 }
 
 .tekst2{
     margin-left: 40px;
+    font-weight: 700;
+    font-size: 16px;
 }
 
-.button, .button2{
+.button{
     margin-left: 150px;
+    font-size: 12px;
+    font-weight: 500;
 }
-.button2{
+.button{
     background-color: white;
     border: none;
     color: black;
@@ -189,7 +209,7 @@ div.banner3{
     margin: 4px 2px;
     cursor: pointer;
 }
-.button2:hover{
+.button:hover{
     opacity: 0.95;
     background-color: #222931;
     color: white;
@@ -207,7 +227,7 @@ div.banner3{
     padding-top: 50px;
     padding-bottom: 50px;
     margin-top: 190px;
-    margin-left:  925px;
+    margin-left:  905px;
     display: inline-block;
 
 }
@@ -218,7 +238,7 @@ div.banner3{
     position: absolute;
     padding-top: 50px;
     padding-bottom: 50px;
-    margin-left: 600px;
+    margin-left: 580px;
     margin-top: 190px;
     display: inline-block;
 
@@ -230,7 +250,7 @@ div.banner3{
     position: absolute;
     padding-top: 50px;
     padding-bottom: 50px;
-    margin-left:  275px;
+    margin-left:  255px;
     margin-top: 190px;
     display: inline-block;
 }   
@@ -255,7 +275,7 @@ div.banner3{
     padding-top: 50px;
     padding-bottom: 50px;
     margin-top: 290px;
-    margin-left: 925px;
+    margin-left: 905px;
     display: inline-block;
 }
 .footerblokje2_2{
@@ -265,7 +285,7 @@ div.banner3{
     position: absolute;
     padding-top: 50px;
     padding-bottom: 50px;
-    margin-left: 600px;
+    margin-left: 580px;
     margin-top: 290px;
     display: inline-block;
 
@@ -277,7 +297,7 @@ div.banner3{
     position: absolute;
     padding-top: 50px;
     padding-bottom: 50px;
-    margin-left:  275px;
+    margin-left:  255px;
     margin-top: 290px;
     display: inline-block;
 }   
@@ -300,7 +320,7 @@ div.banner3{
     width: 100%;
 }
 .handshake , i{
-    margin-top: -20px;
+    margin-bottom: 40px;
     width: 60px;
     height: 60px;
     margin-left: 40px;
@@ -308,28 +328,26 @@ div.banner3{
     background-repeat: no-repeat;
 }
 .texthandshake{
-    margin-top: -20px;
+    margin-bottom: 40px;
     position: absolute; 
     display: inline-block;
     margin-left: 110px;
 }
 .toolbox i{
-    padding:0px;
-    margin-top: -20px;
+    margin-bottom: 60px;
     width: 60px;
     height: 60px;
     margin-left: 40px;
     position:inline-block;
-    background-repeat: no-repeat;
 }
 .texttoolbox{
-    margin-top: -20px;
+    margin-bottom: 40px;
     position: absolute; 
     display: inline-block;
     margin-left: 110px;
 }
 .textcontact{
-   margin-top: -20px;
+    margin-bottom: 40px;
     position: absolute; 
     display: inline-block;
     margin-left: 110px;
@@ -370,7 +388,7 @@ div.banner3{
     height: 1px;
     opacity: 0.2;
     margin-top: 500px;
-    margin-left: 275px;
+    margin-left: 255px;
     margin-right: 120px;
 }
 .line{
@@ -378,7 +396,7 @@ div.banner3{
     height: 1px;
     opacity: 0.2;
     margin-top: 400px;
-    margin-left: 275px;
+    margin-left: 255px;
     margin-right: 120px;
 }
 
@@ -386,23 +404,27 @@ div.over-ons{
     padding-bottom: 20px;
     position: absolute;
     width: 475px;
-    margin-left: 275px;
+    margin-left: 255px;
 }
 div.contact-ons{
     position: absolute;
-    width: 475px;
-    margin-left: 930px;
+    width: 400px;
+    margin-left: 900px;
 }
 div.end{
     position: absolute;
 }
 footer{
+    font-size: 12px;
+    line-height: 18px;
+    font-weight: 400;
     width: 100%;
-    margin-top: 350px;
+    margin-top: 370px;
     height: 50px;
     background-color: #222931; 
     color: white;
     padding-bottom: 20px;
+
 }
 footer>p{
     float: right;
@@ -427,6 +449,7 @@ img.img-end, .mobile, img.mail{
     margin-top: 20px;
     margin-left: 210px;
     font-size: 12px;
+    font-weight: 400;
 }
 
 .dienstentext{
@@ -434,7 +457,6 @@ img.img-end, .mobile, img.mail{
     margin:40px;
     margin-left: 200px;
     margin-right: 200px;
-
 }
 
 span:hover + .tekstje1{ 
