@@ -19,7 +19,7 @@ nav {
     position: absolute; 
 }
 nav ul{
-    width: 1000px;
+    width: 950px;
     margin-left: 230px;
     background-color: #222931;
     display: inline-block;
@@ -71,9 +71,6 @@ li.dropdown {
     color: black;
 }
 
-.banners{
-    align-items: center;
-}
 div.banner1{
     width: 300px;
     height: 220px;
@@ -260,7 +257,6 @@ div.banner3{
     margin-top: 290px;
     margin-left: 925px;
     display: inline-block;
-
 }
 .footerblokje2_2{
     background-color: yellow; 
@@ -427,7 +423,6 @@ img.img-end, .mobile, img.mail{
 }
 
 .menu{
-
     color: black;
     margin-top: 20px;
     margin-left: 210px;
@@ -468,7 +463,6 @@ div.tekstje1{
 div.tekstje2{ 
     font-size: 14px; 
     position: absolute; 
-    height: 55; 
     width: 175px; 
     padding: 20px; 
     margin-left: 85px; 
